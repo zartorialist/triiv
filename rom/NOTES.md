@@ -1,3 +1,3 @@
 Download **Triiv.gba** and open it in any GBA emulator (mGBA, SkyEmu, Delta, RetroArch) or on a flash cart.
 
-Walls: steady light, no flashing
+Slimmer walls, five arena layouts for Free Play and the Gauntlet, VS screen before duels
