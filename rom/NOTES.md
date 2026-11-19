@@ -1,3 +1,3 @@
 Download **Triiv.gba** and open it in any GBA emulator (mGBA, SkyEmu, Delta, RetroArch) or on a flash cart.
 
-Gauntlet duels: only the rival shares the arena, always under their own name (guards for a report of a rival shown as RAMMER).
+Arcade feel: high scores in the attract loop, a GAME OVER moment, pilot rank and instant retry (START) on the results, sector lines, score milestones, a last-life cue (icon and music), and notices moved up under the score.
