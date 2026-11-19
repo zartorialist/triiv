@@ -1,3 +1,3 @@
 Download **Triiv.gba** and open it in any GBA emulator (mGBA, SkyEmu, Delta, RetroArch) or on a flash cart.
 
-Gauntlet arenas are more open: about a third fewer wall pieces in every layout.
+Gauntlet duels: only the rival shares the arena, always under their own name (guards for a report of a rival shown as RAMMER).
