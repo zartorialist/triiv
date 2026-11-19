@@ -1,3 +1,3 @@
 Download **Triiv.gba** and open it in any GBA emulator (mGBA, SkyEmu, Delta, RetroArch) or on a flash cart.
 
-Gauntlet duels: the warning shows the rival's eyes and face, a beaten rival has a last word and a winner gloats. Champions no longer join waves. The +points pop over a kill is readable again.
+Bosses are shielded (hull and guns) until they open fire, and fire sooner. A warp jump or orbit toss you have waiting is used before a newly picked item. The pause screen's perks wrap to a second row.
